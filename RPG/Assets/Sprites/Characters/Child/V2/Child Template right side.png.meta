@@ -1,9 +1,11 @@
 fileFormatVersion: 2
-guid: 71f2bc51c9cb05d478039d36c25c0716
+guid: 4b03bc44e9e8cd842a0e1635fd3ae79d
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Dirt path clone_0
-    21300002: Dirt path clone_1
+    21300000: Child Template right side_0
+    21300002: Child Template right side_1
+    21300004: Child Template right side_2
+    21300006: Child Template right side_3
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -65,7 +67,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -76,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -86,7 +88,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dirt path clone_0
+      name: Child Template right side_0
       rect:
         serializedVersion: 2
         x: 0
@@ -100,13 +102,33 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 732e6458a4f065645880a57e834fdb43
+      spriteID: 0d0469fb741c98d4c95a029caaf5eb10
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dirt path clone_1
+      name: Child Template right side_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbbb7a5dde214642b2ac50211fb9143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child Template right side_2
       rect:
         serializedVersion: 2
         x: 0
@@ -120,7 +142,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3cb1f4e4cc23d4e40b3f7154da79b9df
+      spriteID: 6c7b801b1105bed4881ca8c33fb48c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child Template right side_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e722c172e12ab0488a9df7e6cdf19e1
       vertices: []
       indices: 
       edges: []
@@ -128,7 +170,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8620aa5a541d09d429e312ddc3cfee9f
+    spriteID: e1045454eb21aeb478a8edc3efedb4bc
     vertices: []
     indices: 
     edges: []
