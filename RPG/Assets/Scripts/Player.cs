@@ -7,9 +7,10 @@ public class Player : Character
     
     
     // Start is called before the first frame update
-    void Start()
+    protected override void Start()
     {
-        direction = Vector2.up;
+        //direction = Vector2.up;
+        base.Start();
     }
 
     // Update is called once per frame
