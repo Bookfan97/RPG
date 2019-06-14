@@ -26,7 +26,7 @@ public abstract class Character : MonoBehaviour
     }
     public void AnimateMovement(Vector2 direction)
     {
-        animator.SetFloat('x', direction.x);
-        animator.SetFloat('y', direction.y);
+        animator.SetFloat("x", direction.x);
+        animator.SetFloat("y", direction.y);
     }
 }
