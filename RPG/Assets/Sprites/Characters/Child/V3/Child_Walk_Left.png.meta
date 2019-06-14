@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: 0d961f7004bf6424d8494c45a66cca19
+guid: 95c7cf6ab30e015489af4be2ff6975b7
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Walking Child_v2_0
-    21300002: Walking Child_v2_1
-    21300004: Walking Child_v2_2
+    21300000: Child_Walk_Left_0
+    21300002: Child_Walk_Left_1
+    21300004: Child_Walk_Left_2
+    21300006: Child_Walk_Left_3
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -66,7 +67,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -77,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -87,13 +88,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Walking Child_v2_0
+      name: Child_Walk_Left_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 32
-        height: 32
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -101,19 +102,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 226cc59fc91109a4981c1f170d4be4b7
+      spriteID: 1a53cb07c81f99c4b91fdfdfe38fa8ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Child_v2_1
+      name: Child_Walk_Left_1
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,19 +122,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6513b2f64385f14b8addbe4c9685377
+      spriteID: a8e3cc2c9f3fd5842a513b108499a818
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Walking Child_v2_2
+      name: Child_Walk_Left_2
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 32
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,7 +142,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 841ef89669789de428d93d1c21bf7045
+      spriteID: a230530cfac9b6d498b56dbbe6753852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Child_Walk_Left_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709430ca610e1e140bb4a64e3113eb8d
       vertices: []
       indices: 
       edges: []
@@ -149,7 +170,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 901feff33e0db7648879e805dec7a11f
+    spriteID: f3faafaa6db234443a543bb07a693b28
     vertices: []
     indices: 
     edges: []

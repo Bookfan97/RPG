@@ -28,7 +28,7 @@ public abstract class Character : MonoBehaviour
         }
         else
         {
-            animator.SetLayerWeight(1, 0);
+            animator.SetLayerWeight(1, 0); 
         }
         
     }
